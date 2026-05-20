@@ -18,7 +18,7 @@
 
 ### 👩‍💻 About me
 
-Third-semester networking student at Algonquin College with a background in retail management (8+ years). I came into tech because I wanted to understand how computer systems actually work — not just use them.
+Third-semester networking student at Algonquin College with a background in retail management (8 years). I came into tech because I wanted to understand how systems actually work — not just use them.
 
 I like troubleshooting more than I probably should, I'm genuinely curious about where networking meets cybersecurity, and I organized a scam awareness seminar for seniors in Ottawa called the **Safe Click Project** — covering AI voice cloning, deepfakes, and QR code fraud in partnership with OASIS and Old Forge Community Centre.
 
@@ -59,15 +59,7 @@ I like troubleshooting more than I probably should, I'm genuinely curious about 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kayllabell&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" height="160"/>
-&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayllabell&theme=midnight-purple&hide_border=true" height="160"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayllabell&layout=compact&theme=midnight-purple&hide_border=true" height="130"/>
 
 </div>
 
