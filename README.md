@@ -10,7 +10,7 @@
 
 <br/>
 
-> 🔍 **Open to co-op** — Aug–Dec 2026 &nbsp;|&nbsp; Jan–Apr 2027 &nbsp;·&nbsp; Ottawa, ON
+> 🔍 **Open to co-op** — Sept–Dec 2026 &nbsp;|&nbsp; Jan–Apr 2027 &nbsp;·&nbsp; Ottawa, ON
 
 </div>
 
